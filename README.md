@@ -6,4 +6,4 @@ To run the application:
 
 Also, some packages need to be installed. Make sure you have already installed firebase-admin, react-firebase-hooks, nodemon, express, react-router-dom, firebase, axios and react-icons
 
-To test the application throughout my implementation process, I added a user to Firebase Authentication. Only the users who have been added there can sign in to the application. If you want to sign in to the application, I'd be glad to add a new user to Firebase Authentication. Also, by simply changing the firebase configuration json in the index.js file and ServiceAccountKey.json file's content, you should be able to login and use the application.
+To test the application throughout my implementation process, I added a user to Firebase Authentication. Only the users who have been added there can sign in to the application. If you want to sign in to the application, I'd be glad to add a new user to Firebase Authentication. Also, by simply configuring the firebase configuration json in the index.js file and adding a ServiceAccountKey.json file into the base directory, you should be able to login and use the application.
